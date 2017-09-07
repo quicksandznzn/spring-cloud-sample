@@ -22,6 +22,11 @@
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-eureka-server</artifactId>
     </dependency>
+    <dependency>
+      <groupId>spring-cloud-sample</groupId>
+      <artifactId>spring-cloud-common-api</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <dependencyManagement>
     <dependencies>
